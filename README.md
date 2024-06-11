@@ -1,7 +1,7 @@
-# 👋 Hi there!
+# Embedded Systems Firmware Engineer - Crafting Efficient Solutions
 
-I craft efficient & reliable firmware for embedded systems. Let's build 
-something awesome together!
+I am an experienced firmware engineer specializing in creating reliable and 
+efficient solutions for embedded systems.
 
 ## About Me
 
